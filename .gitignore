@@ -1,0 +1,17 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python / Jupyter artifacts
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+*.executed.ipynb
+
+# OS / editor artifacts
+.DS_Store
+.vscode/
+.idea/
